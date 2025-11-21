@@ -15,8 +15,7 @@ This project uses the **Bank Marketing Dataset**, containing attributes such as:
 - Campaign Duration & Outcome  
 - Previous Campaign Interactions  
 
-📄 For complete **EDA, preprocessing, model comparison, and training**, see:  
-`notebook_v1.ipynb`
+📄 For complete **EDA, preprocessing, model comparison, and training**, see:![Alt text](Notebook_v1.ipynb)
 
 ---
 
@@ -55,3 +54,4 @@ This project uses the **Bank Marketing Dataset**, containing attributes such as:
 | Environment  | Python 3.8+                                |
 
 ---
+
